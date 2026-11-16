@@ -1,2 +1,10 @@
-# Amina-Afzaal-HCI--Week1
-Week 1: Introduction to HCI and User Experience Workflow. Includes HCI concepts, usability evaluation, and initial wireframes.
+Introduction to Human-Computer Interaction & User Experience Workflow
+Student: Ayesha Talib
+Course: Human-Computer Interaction (HCI)
+University: University of Agriculture Faisalabad
+
+Assignment Objectives
+Understand the HCI design life cycle.
+Explore a prototyping environment.
+Identify usability issues in an existing user interface.
+Learn how to document practical work using GitHub.
